@@ -2,7 +2,7 @@
 
 
 ## Create .env file
-Create a .env file to store your MongoDB database credentials
+Create a .env file to store MongoDB data
 
 ```
 MONGODB_URI = mongodb+srv://<username>:<password>@project.7kshjzk.mongodb.net/Games?retryWrites=true&w=majority
